@@ -1,11 +1,15 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+title: Manav Sudhakar Pusate # Tera full name ya portfolio title
+
+logo: "/images/profile-photo.jpg?raw=true" # Apna professional photo upload kar images folder mein, name "profile-photo.jpg" rakh (ya jo bhi name, usi se match kar)
+
+description: > # Yahan apna short bio daal, line breaks ke liye enter daba
+  Aspiring Data Analyst<br><br>
+  Final Year B.Tech IT Student at RTMNU Nagpur<br><br>
+  Passionate about turning data into insights using Python, SQL, Power BI, and AWS.<br><br>
+  Skilled in Pandas, NumPy, Matplotlib, Excel, and building interactive dashboards.<br><br>
+  <a href="https://www.linkedin.com/in/manav-sudhakar-pusate/">View My LinkedIn Profile</a> | 
+  <a href="https://github.com/manavpusate">View My GitHub</a>
+
 theme: jekyll-theme-tactile
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
+google_analytics:  # Agar chahe to Google Analytics ID daal, warna khali chhod de
